@@ -1,0 +1,32 @@
+{
+  "app_name": "نور - تطبيق ديني شامل",
+  "version": "1.0.0",
+  "description": "تطبيق إسلامي شامل يتضمن قراءة القرآن، الأذكار، التسبيح، الأدعية، الأحاديث، أوقات الصلاة",
+  "colors": {
+    "primary": "#2196F3",
+    "primary_dark": "#1976D2",
+    "accent": "#FF4081",
+    "background_dark": "#121212",
+    "background_light": "#F5F5F5",
+    "surface": "#1E1E1E",
+    "text_dark": "#FFFFFF",
+    "text_light": "#212121"
+  },
+  "settings": {
+    "dark_mode": true,
+    "notifications_enabled": true,
+    "prayer_notifications": true,
+    "adhkar_notifications": true,
+    "font_size": "medium"
+  },
+  "categories": {
+    "quran": "📖 القرآن الكريم",
+    "prayer": "🕌 أوقات الصلاة",
+    "adhkar": "🔔 الأذكار",
+    "tasbih": "📿 التسبيح",
+    "dua": "🤲 الأدعية",
+    "hadith": "📚 الأحاديث",
+    "statistics": "📊 الإحصائيات",
+    "settings": "⚙️ الإعدادات"
+  }
+}

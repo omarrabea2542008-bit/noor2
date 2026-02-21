@@ -1,0 +1,6 @@
+kivy>=2.1.0
+kivy-garden>=0.1.5
+plyer>=2.1.0
+buildozer>=1.4.0
+cython>=0.29.0
+requests>=2.0

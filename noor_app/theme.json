@@ -1,0 +1,18 @@
+{
+  "dark": true,
+  "colors": {
+    "primary": "#2196F3",
+    "primary_dark": "#1976D2",
+    "accent": "#FF4081",
+    "background": "#121212",
+    "surface": "#1E1E1E",
+    "text": "#FFFFFF",
+    "text_secondary": "#B3B3B3"
+  },
+  "typography": {
+    "font_family": "Arial",
+    "heading_size": 24,
+    "body_size": 16,
+    "caption_size": 12
+  }
+}
